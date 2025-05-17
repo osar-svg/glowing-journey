@@ -50,5 +50,5 @@ or with an inline style on the element itself:
 
 # Note: When specifying a web font in a CSS style, always list at least one fallback web-safe font in order to avoid unexpected behaviors. In particular, add a CSS generic font name like serif or sans-serif to the end of the list, so the browser can fall back to its default fonts if need be.
 
-For a list of fonts you can use, see Google Fonts. 
+See a complete list of font families provided by the Google Fonts API on Google Fonts.
 https://fonts.google.com/
