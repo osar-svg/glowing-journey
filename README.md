@@ -4,18 +4,22 @@ This guide explains how to use the Google Fonts API to add fonts to your web pag
 # A quick example
 Here's an example. Copy and paste the following HTML into a file:
 
-# <html>
-# <head>
-# <meta charset="utf-8">
-# <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
-# <style>
-# body { font-family: 'Tangerine', serif; font-size: 48px; }
-# </style>
-# </head>
-# <body>
-#  <div>Making the Web Beautiful!</div>
-# </body>
-# </html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+    <style>
+      body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>Making the Web Beautiful!</div>
+  </body>
+</html>
 
 Then open the file in a modern web browser. You should see a page displaying the following, in the font called Tangerine:
 
